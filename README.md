@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonaslevis2020
-- 👀 I’m interested in Java, Spring, Spring Boot, Typescript, Angular
-- 🌱 I’m currently learning Spring, Spring Boot, Angular, Typescript
+- 👀 I’m interested in Python, Data Science, AI/ML, Django, Djangorestframework,Typescript, Angular
+- 🌱 I’m currently Python developer at ESOAF CAMEROUN
 - 💞️ I’m looking to collaborate on any project concerning the technologies above
 - 📫 How to reach me: jonasinfo2016@gmail.com
 
